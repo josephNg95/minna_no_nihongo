@@ -1,0 +1,54 @@
+.wrapper-admin, .btn {
+    font-size: 12px;
+}
+.btn-edit a{
+    color: #007eff;
+}
+.btn-del a{
+    color: red;
+}
+
+.switch input{
+    display: none;
+}
+.switch-btn {
+    width: 40px;
+    height: 20px;
+    background: linear-gradient(#ff0000, #ea6f6f);
+    position: relative;
+    border-radius: 14px;
+    cursor: pointer;
+    box-shadow: inset 0 3px 10px rgba(0,0,0,.3);
+}
+.switch-btn:before {
+    content: '';
+    height: 16px;
+    width: 16px;
+    background: #fff;
+    left: 2px;
+    top: 2px;
+    position: absolute;
+    border-radius: 14px;
+    transition: all 0.4s ease-out;
+    box-shadow: 0px 8px 6px -4px rgba(0,0,0, .25)
+}
+input[type=checkbox]:checked + .switch-btn:before {
+    left: 22px;
+}
+input[type=checkbox]:checked + .switch-btn {
+    background: #00cc66;
+}
+
+.bd-primary {
+    border-left: 3px solid #337ab7;
+    padding: 5px 5px 1px 5px;
+    width: 30%;
+    color: #337ab7;
+    font-size: 13px;
+    font-weight: 600;
+    border-bottom: 1px solid #ddd;
+}
+
+ul.pagination>li>a {
+    border-radius: unset !important;
+}

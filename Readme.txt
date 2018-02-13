@@ -1,1 +1,2 @@
-Readme123
+ckeditor/config.js
+ckfinder/config.php
