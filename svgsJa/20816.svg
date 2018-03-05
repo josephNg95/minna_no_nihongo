@@ -1,0 +1,68 @@
+<!--
+AnimCJK 2016-2018 Copyright Francois Mizessyn, https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB - https://apps.ubuntu.com/cat/applications/precise/fonts-arphic-gkai00mp/
+    Arphic PL UKai - https://apps.ubuntu.com/cat/applications/fonts-arphic-ukai/
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license (the directory "APL") along with this file;
+if not, see http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z20816" class="acjk" version="1.1" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<style>
+<![CDATA[
+@keyframes z20816k {
+	from {
+		stroke:#c00;
+		stroke-dashoffset:3334;
+	}
+	75% {
+		stroke:#c00;
+		stroke-dashoffset:0;
+	}
+	to {
+		stroke:#000;
+	}
+}
+#z20816 path[clip-path] {
+	animation:z20816k 1s linear both;
+	stroke-dasharray:3334;
+	stroke-width:128;
+	stroke-linecap:round;
+	fill:none;
+}
+#z20816 path[clip-path="url(#z20816c1)"] {animation-delay:1s;}
+#z20816 path[clip-path="url(#z20816c2)"] {animation-delay:2s;}
+#z20816 path[clip-path="url(#z20816c3)"] {animation-delay:3s;}
+#z20816 path[clip-path="url(#z20816c4)"] {animation-delay:4s;}
+#z20816 path[clip-path="url(#z20816c5)"] {animation-delay:5s;}
+#z20816 path[clip-path="url(#z20816c6)"] {animation-delay:6s;}
+#z20816 path[clip-path="url(#z20816c7)"] {animation-delay:7s;}
+#z20816 path {fill:#ccc;}
+]]>
+</style>
+<path id="z20816d1" d="M205 186Q260 272 264 471Q265 529 306 556L308 557Q327 562 327 533Q327 518 303 362Q294 282 290 218Q291 205 276 193Q246 175 216 167Q208 165 203 170Q194 175 205 186 Z"/>
+<path id="z20816d2" d="M403 180Q392 174 370 170Q358 166 354 170Q348 175 354 189Q390 290 394 450Q393 498 417 532Q431 552 438 539Q442 531 444 522L448 498Q448 480 435 364L432 340Q420 243 418 210L403 180 Z"/>
+<path id="z20816d3" d="M638 510Q660 537 680 544Q692 551 707 529Q730 485 757 258Q766 228 790 203Q804 190 791 178Q774 162 727 138Q707 130 633 146Q623 146 499 166Q447 174 403 180L418 210Q499 192 642 178Q672 174 681 183Q706 207 703 232Q672 467 648 485L638 510 Z"/>
+<path id="z20816d4" d="M435 364Q437 364 620 349Q645 346 637 334Q625 318 598 313Q560 308 432 340L435 364 Z"/>
+<path id="z20816d5" d="M444 522Q449 523 460 522Q561 514 638 510L648 485Q642 479 627 476Q605 471 562 478Q502 489 448 498L444 522 Z"/>
+<path id="z20816d6" d="M380 543Q380 714 129 886Q120 893 127 897Q134 900 146 896Q207 877 259 842Q349 788 426 639Q439 617 456 594Q465 585 460 574Q445 547 417 538L380 543 Z"/>
+<path id="z20816d7" d="M495 530Q519 554 515 625Q515 817 530 844Q581 946 809 930Q891 920 922 900Q953 885 942 853Q927 808 918 732Q917 716 910 710Q901 704 897 725Q875 816 859 832Q849 850 816 857Q684 881 606 851Q578 838 572 820Q548 756 571 641Q575 613 583 596Q598 557 546 527L495 530 Z"/>
+<defs>
+	<clipPath id="z20816c1"><use xlink:href="#z20816d1"/></clipPath>
+	<clipPath id="z20816c2"><use xlink:href="#z20816d2"/></clipPath>
+	<clipPath id="z20816c3"><use xlink:href="#z20816d3"/></clipPath>
+	<clipPath id="z20816c4"><use xlink:href="#z20816d4"/></clipPath>
+	<clipPath id="z20816c5"><use xlink:href="#z20816d5"/></clipPath>
+	<clipPath id="z20816c6"><use xlink:href="#z20816d6"/></clipPath>
+	<clipPath id="z20816c7"><use xlink:href="#z20816d7"/></clipPath>
+</defs>
+<path pathLength="3333" clip-path="url(#z20816c1)" d="M206 174L261 232L303 551"/>
+<path pathLength="3333" clip-path="url(#z20816c2)" d="M360 172L393 225L429 538"/>
+<path pathLength="3333" clip-path="url(#z20816c3)" d="M411 183L687 158L749 201L672 539"/>
+<path pathLength="3333" clip-path="url(#z20816c4)" d="M438 344L631 336"/>
+<path pathLength="3333" clip-path="url(#z20816c5)" d="M451 515L643 494"/>
+<path pathLength="3333" clip-path="url(#z20816c6)" d="M385 550L418 590L333 737L233 834L132 890"/>
+<path pathLength="3333" clip-path="url(#z20816c7)" d="M503 532L549 571L540 780L552 835L589 872L705 899L881 873L904 850L909 716"/>
+</svg>
