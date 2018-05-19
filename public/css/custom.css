@@ -1,0 +1,29 @@
+.content-right1 {
+	width: 100%;
+	min-height: 500px;
+	padding-left: 10px;
+	box-shadow: 5px 5px 5px 5px #ddd;
+}
+.listItem p {
+	padding-left: 10px;
+}
+.listItem p:hover {
+
+	cursor: pointer;
+	background: #f0f8ff;
+}
+.listItem {
+	padding-left: 0px;
+	height: 480px;
+	overflow-y: scroll;
+}
+
+.listItem a {
+	color: #464646;
+}
+.listItem a:hover {
+	text-decoration: none;
+}
+p.lesson-active {
+	background: #f0f8ff;
+}
