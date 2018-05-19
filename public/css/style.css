@@ -1,0 +1,29 @@
+/* reset bootstrap */
+.panel {border-radius: 0%;}
+.form-control {border-radius: 0%;}
+.input-group-addon {border-radius: 0%;}
+.btn {border-radius: 0%;}
+.btn:hover {box-shadow:5px 5px 5px #8a8a8a}
+.panel-heading {border-radius: 0%;}
+.nav-pills>li>a {border-radius: 0%; box-shadow: 3px 3px 3px #b7b7b7}
+.nav {border-radius: 0%; border-bottom: 1px solid #ddd}
+
+/**/
+.header {
+	background: #03a9f4;
+	min-height: 100px;
+	color: #fff;
+	width: 100%;
+	position: relative;
+}
+
+.logo {
+	width: 20%;
+	min-height: 100px;
+	background: red;
+	float: left;
+}
+.tab-menu {
+	float: left;
+	background: green;
+}
